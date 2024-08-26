@@ -6,4 +6,4 @@
 
 
 ## Unofficial list for hydra launcher
-+ 🌐 rutor.info
++ 🌐 raw link [rutor.info](https://github.com/Ctrelo4ek/rutor-hydra-links/raw/master/rutor.json)
