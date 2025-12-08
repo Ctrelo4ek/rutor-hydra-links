@@ -12,6 +12,7 @@
 <div style="text-align: left; margin: 0 20px;">
     <ul style="list-style-type: disc; padding: 0;">
         <li>🌐 raw link <strong><a href="https://github.com/Ctrelo4ek/rutor-hydra-links/raw/master/rutor.json" style="text-decoration: none; color: #0366d6;">rutor.info</a></strong></li>
-        <li>🌐 raw link <strong><a href="https://github.com/KekitU/rutracker-hydra-links/raw/main/all_categories.json" style="text-decoration: none; color: #0366d6;">rutracker.org (all categories)</a></strong></li>
+        <li>🌐 raw link <strong><a href="https://github.com/Ctrelo4ek/rutor-hydra-links/raw/master/rutracker_list.json" style="text-decoration: none; color: #0366d6;">rutracker.org</a></strong></li>
+        <li>🌐 raw link <strong><a href="https://github.com/KekitU/rutracker-hydra-links/raw/main/all_categories.json" style="text-decoration: none; color: #0366d6;">rutracker.org (all categories) by KekitU</a></strong></li>
     </ul>
 </div>
